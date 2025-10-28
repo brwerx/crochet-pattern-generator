@@ -1,0 +1,15 @@
+# Node
+node_modules
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# Env
+.env
+frontend/.env
+backend/.env
+
+# Build
+dist
+build
+.DS_Store
