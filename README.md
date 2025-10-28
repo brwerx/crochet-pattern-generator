@@ -1,7 +1,7 @@
 # AI-Powered Crochet Pattern Instruction Generator
 
 Monorepo with:
-- `frontend/` React (Vite)
+- `frontend/` --
 - `backend/` Node.js (Express)
 
 ## Quick Start
