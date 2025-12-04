@@ -2,7 +2,7 @@
 
 Automatically generate fully structured crochet patterns using AI.
 
-Built by **Mika Brewer** for **CS 406 – Capstone Project (Oregon State University)**.
+Built by **Mikaella Brewer** for **CS 406 – Capstone Project (Oregon State University)**.
 
 ---
 
