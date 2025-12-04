@@ -1,12 +1,6 @@
 # 🧶 AI-Powered Crochet Pattern Generator
 
-<<<<<<< HEAD
-Monorepo with:
-- `frontend/` --
-- `backend/` Node.js (Express)
-=======
 Automatically generate fully structured crochet patterns using AI.
->>>>>>> a6e00d2 (Local updates before syncing with remote)
 
 Built by **Mika Brewer** for **CS 406 – Capstone Project (Oregon State University)**.
 
